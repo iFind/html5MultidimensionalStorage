@@ -1,0 +1,6 @@
+{
+    "name": "Storage Objects Polyfill",
+    "version": "1.0.0",
+    "description": "Add HTML Storage capabilities to add and retreive multidimensional objects instad of flat data",
+    "dependencies": {}
+}
